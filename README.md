@@ -12,8 +12,8 @@ A simple Python command-line tool to fetch and display the recent activity of a 
 - Handles invalid usernames gracefully
 
 ## Usage
-python3 githubactivity.py <username>
-python3 githubactivity.py EmilyaHovsepyan
+-python3 githubactivity.py <username>
+-python3 githubactivity.py EmilyaHovsepyan
 
 ## Installation
 
